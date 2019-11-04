@@ -2,7 +2,7 @@ package de.storecast.gildedrose;
 
 public class Item {
 
-    public String name;
+    public final String name;
 
     public int sellIn;
 
